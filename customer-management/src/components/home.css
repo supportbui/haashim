@@ -1,0 +1,12 @@
+/* Home.css */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .container > div {
+    flex: 1;
+    margin: 10px;
+  }
+  
